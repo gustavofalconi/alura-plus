@@ -135,14 +135,13 @@ body {
 .rodape__lista {
     display: flex;
     list-style-type: none;
-    justify-content:space-evenly;
+    justify-content: center;
     margin: 2em 0;
 }
 
 .lista__link {
     color: var(--branco-principal);
     text-decoration: none;
-    text-align: center;
     margin: 0 1em;
 }
 
