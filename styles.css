@@ -165,6 +165,10 @@ body {
         background-image:none;
     }
 
+    .principal {
+        display: flex
+    }
+
     .container__imagem {
         width: 50vw;
     }
@@ -180,6 +184,10 @@ body {
 
     .secundario__imagem{
         width: 50vw;
+    }
+
+    .dispositivos {
+        margin: 0 2em;
     }
 
     .dispositivos__lista {
