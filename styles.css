@@ -142,6 +142,7 @@ body {
 .lista__link {
     color: var(--branco-principal);
     text-decoration: none;
+    margin: 0 1em;
 }
 
 .lista__link:hover {
